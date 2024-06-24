@@ -13,9 +13,9 @@ PhotoRenamer is a simple tool to batch rename your photos based on their EXIF da
 
 You can download the executable directly from the `dist` folder in this repository.
 
-1. **Download the executable**:
-   - [photoRenamer (for Windows)](link_to_your_executable) (Replace with your actual link)
-   - [photoRenamer (for Mac)](link_to_your_executable) (Replace with your actual link)
+1. **Download**:
+   - [photoRenamer](https://github.com/tsaowesley/photoRenamer/releases/download/v1.0.0/photoRenamer.zip) 
+
    
 2. **Run the executable**:
    - For Windows, double-click the `photoRenamer.exe` file.
