@@ -1,0 +1,3 @@
+([('photoRenamer',
+   '/Users/wenchien/Desktop/side-project/photoRenamer/dist/photoRenamer',
+   'EXECUTABLE')],)
